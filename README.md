@@ -10,3 +10,12 @@ A standalone product search program in Java that lists matching T-shirts based o
 **Multithreading:** Periodically loads new CSV data.
 **Testing with Cucumber:** Utilizes Cucumber for acceptance tests to ensure functionality meets requirements.
 **Dependency Management:** Uses Maven for project dependency management.
+
+Key Features
+CSV Data Integration: Efficiently reads T-shirt data from CSV files.
+User Input Handling: Accepts and processes search criteria from users.
+Search & Sorting: Locates and sorts T-shirts based on user preferences.
+Multithreading: Periodically loads new CSV data in the background.
+Testing with Cucumber: Utilizes Cucumber for acceptance tests to ensure functionality meets requirements.
+Unit Testing: Employs JUnit for thorough unit testing.
+Dependency Management: Manages project dependencies with Maven.
